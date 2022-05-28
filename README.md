@@ -1,4 +1,4 @@
-# Learning an Insertion Region for Advertisement Embedding
+# Learning an Insertion Region for Advertisement Embedding on Planes
 
 This is the implementation of our new article:
 Shan An, Fangru Zhou, Mei Yang, Chang Tang, and Haogang Zhu. Learning an Insertion Region for Advertisement Embedding on Planes. 

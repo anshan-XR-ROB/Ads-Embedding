@@ -2,7 +2,7 @@
 
 This is the dataset of our new article:
 Shan An, Fangru Zhou, Mei Yang, Chang Tang, and Haogang Zhu. Learning an Insertion Region for Advertisement Embedding on Planes. 
-Submitted to Signal Processing: Image Communication.
+Submitted to “Signal Processing: Image Communication”.
 
 **Abstract:** 
 Advertisement embedding aims to insert an advertisement into an image. The main task is to determine the most suitable insertion region on the planes for the advertisement to fit into. In this paper, we propose to realize practical advertisement embedding by learning the proper insertion region. As we assume the advertisement is a square in the 3D space, the insertion plane can be represented by its four corner points which correspond to the four corners of the advertisement. The common plane supervision for the plane detection in PlaneRCNN is an unconstrained shape of the 2D mask, which is not sufficient to label the square in the world coordinate. To solve this problem, we build a new dataset with the label of the most suitable insertion region. We map all of the points in the mask back to the world coordinates and compute a maximum square for each plane to determine the correct insertion region. With the proposed dataset, we design a network to regress the insertion region directly. The network is trained end-to-end with the original Mask R-CNN to resolve the ambiguity of point regression by multi-task learning loss. Our method is evaluated through quantitative and qualitative experiments, and the results demonstrate the impressive performance of our method on the proposed dataset.

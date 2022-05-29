@@ -1,6 +1,6 @@
 # Learning an Insertion Region for Advertisement Embedding on Planes
 
-This is the dataset of our new article:
+This is the benchmark proposed by our article:
 Shan An, Fangru Zhou, Mei Yang, Chang Tang, and Haogang Zhu. Learning an Insertion Region for Advertisement Embedding on Planes. 
 Submitted to “Signal Processing: Image Communication”.
 

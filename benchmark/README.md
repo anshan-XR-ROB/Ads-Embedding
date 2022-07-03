@@ -5,8 +5,11 @@ This zip package contains the ground truth of the advertisement embedding region
 The files we provide need to be used with the ScanNet v2 dataset. The original ScanNet v2 dataset can be downloaded at http://www.scan-net.org/. 
 
 The content of the data is:
+
+
 Plane ID: Upper-left corner point coordinates, Upper-right corner point coordinates, Lower-left corner point coordinate, Lower-left corner point coordinate.
 
+For example: 91: array([376, 210, 519, 245, 309, 287, 480, 340], dtype=int32)
 . 
 
 

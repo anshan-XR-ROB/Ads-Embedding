@@ -7,7 +7,7 @@ The files we provide need to be used with the ScanNet v2 dataset. The original S
 The format of the dataset is:
 
 
-Plane ID: Upper-left corner point coordinate, Upper-right corner point coordinate, Lower-left corner point coordinate, Lower-left corner point coordinate.
+Plane ID: Upper-left corner point coordinate, Upper-right corner point coordinate, Lower-left corner point coordinate, Lower-right corner point coordinate.
 
 For example: 91: array([376, 210, 519, 245, 309, 287, 480, 340], dtype=int32)
 . 
